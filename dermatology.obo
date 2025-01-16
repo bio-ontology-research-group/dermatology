@@ -36,7 +36,7 @@ creation_date: 2013-01-16T03:32:21Z
 [Term]
 id: DERMO:0000003
 name: psoriasis triggered by bacterial infection
-def: "psoriasis where bacterial infection is judged to be the triggering cause with or without genetic predisposition" [ISBN:9780723435716, XX:<new dbxref>]
+def: "psoriasis where bacterial infection is judged to be the triggering cause with or without genetic predisposition" [ISBN:9780723435716]
 is_a: DERMO:0000124 ! psoriasis
 is_a: DERMO:0002063 ! skin disease caused by bacteria
 created_by: Paul
@@ -8237,7 +8237,7 @@ id: DERMO:0000901
 name: spiradenoma
 xref: SNOMEDCT_US_2015_03_01:403938001 "spiradenoma"
 xref: SNOMEDCT_US_2015_03_01:4977000 "spiradenoma"
-def: "Eccrine and apocrine." [PMDERMO:16882695]
+def: "Eccrine and apocrine." []
 xref: DOID:5444 "spiradenoma"
 is_a: DERMO:0000900 ! undifferentiated neoplasm of apocrine lineage
 is_a: DERMO:0000922 ! undifferentiated neoplasm of eccrine lineage
@@ -14671,7 +14671,7 @@ id: DERMO:0001614
 name: acrodermatitis continua of hallopeau
 xref: SNOMEDCT_US_2015_03_01:83839005 "acrodermatitis continua of hallopeau"
 xref: SNOMEDCT_US_2015_03_01:27520001 "acrodermatitis continua of hallopeau"
-def: "form of psoriasis where pustules are seen on the tips of the fingers and toes often followed by crusting and scaling." [ISNBN:9780723435716]
+def: "form of psoriasis where pustules are seen on the tips of the fingers and toes often followed by crusting and scaling." [ISBN:9780723435716]
 synonym: "dermatitis repens" EXACT []
 synonym: "hallopeau's acrodermatitis" EXACT []
 xref: DERMLEX:2050 "acrodermatitis continua"
@@ -31656,7 +31656,7 @@ id: DERMO:0003514
 name: erythrodermic psoriasis
 xref: SNOMEDCT_US_2015_03_01:200977004 "erythrodermic psoriasis"
 xref: SNOMEDCT_US_2015_03_01:56210000 "erythrodermic psoriasis"
-def: "psoriasis associated with erthroderma" [http:http\://www.dermnetnz.org/scaly/erythrodermic-psoriasis.html, ISBN:9780723435716]
+def: "psoriasis associated with erthroderma" [http://www.dermnetnz.org/scaly/erythrodermic-psoriasis.html, ISBN:9780723435716]
 xref: DERMLEX:2077 "erythrodermic psoriasis"
 is_a: DERMO:0000432 ! causes of secondary erythroderma
 is_a: DERMO:0003512 ! chronic plaque psoriasis
@@ -31667,7 +31667,7 @@ creation_date: 2013-07-17T09:28:26Z
 id: DERMO:0003515
 name: generalised pustular psoriasis
 xref: SNOMEDCT_US_2015_03_01:238612002 "generalised pustular psoriasis"
-def: "psoriasis presenting as widespread pustules on a background of red and tender skin. Widespread patches may occur randomly on any part of the body." [http:http\://www.dermnetnz.org/scaly/pustular-psoriasis.html, ISBN:9780723435716]
+def: "psoriasis presenting as widespread pustules on a background of red and tender skin. Widespread patches may occur randomly on any part of the body." [http://www.dermnetnz.org/scaly/pustular-psoriasis.html, ISBN:9780723435716]
 synonym: "acute generalised pustular psoriasis of von Zumbusch" RELATED []
 xref: ICD10:L40.1 "pustular psoriasis"
 xref: OMIM:614204 "generalised pustular psoriasis"
