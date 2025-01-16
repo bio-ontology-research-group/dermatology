@@ -36,7 +36,7 @@ creation_date: 2013-01-16T03:32:21Z
 [Term]
 id: DERMO:0000003
 name: psoriasis triggered by bacterial infection
-def: "psoriasis where bacterial infection is judged to be the triggering cause with or without genetic predisposition" [ISBN:9780723435716, XX:<new dbxref>]
+def: "psoriasis where bacterial infection is judged to be the triggering cause with or without genetic predisposition" [ISBN:9780723435716]
 is_a: DERMO:0000124 ! psoriasis
 is_a: DERMO:0002063 ! skin disease caused by bacteria
 created_by: Paul
