@@ -14671,7 +14671,7 @@ id: DERMO:0001614
 name: acrodermatitis continua of hallopeau
 xref: SNOMEDCT_US_2015_03_01:83839005 "acrodermatitis continua of hallopeau"
 xref: SNOMEDCT_US_2015_03_01:27520001 "acrodermatitis continua of hallopeau"
-def: "form of psoriasis where pustules are seen on the tips of the fingers and toes often followed by crusting and scaling." [ISNBN:9780723435716]
+def: "form of psoriasis where pustules are seen on the tips of the fingers and toes often followed by crusting and scaling." [ISBN:9780723435716]
 synonym: "dermatitis repens" EXACT []
 synonym: "hallopeau's acrodermatitis" EXACT []
 xref: DERMLEX:2050 "acrodermatitis continua"
