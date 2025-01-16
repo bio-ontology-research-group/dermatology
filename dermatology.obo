@@ -8237,7 +8237,7 @@ id: DERMO:0000901
 name: spiradenoma
 xref: SNOMEDCT_US_2015_03_01:403938001 "spiradenoma"
 xref: SNOMEDCT_US_2015_03_01:4977000 "spiradenoma"
-def: "Eccrine and apocrine." [PMDERMO:16882695]
+def: "Eccrine and apocrine." []
 xref: DOID:5444 "spiradenoma"
 is_a: DERMO:0000900 ! undifferentiated neoplasm of apocrine lineage
 is_a: DERMO:0000922 ! undifferentiated neoplasm of eccrine lineage
